@@ -1,0 +1,6 @@
+﻿Flask
+requests
+python-dotenv
+flask-limiter
+gunicorn==23.0.0
+flask-cors
